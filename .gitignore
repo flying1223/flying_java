@@ -25,6 +25,7 @@ target/
 # system ignore
 .DS_Store
 Thumbs.db
+out/
 
 # package ignore (optional)
 # *.jar
