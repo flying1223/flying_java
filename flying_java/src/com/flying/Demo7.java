@@ -10,5 +10,6 @@ public class Demo7 {
         System.out.println("a大于b：" + (a > b));
         System.out.println("a小于等于b：" + (a <= b));
         System.out.println("str1等于str2：" + (str1 == str2));
+
     }
 }
