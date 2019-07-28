@@ -1,5 +1,6 @@
 package com.flying;
 
+
 public class Demo3 {
     public static void main(String[] args) {
         String name="爱慕课";
